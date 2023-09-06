@@ -15,3 +15,8 @@ def grayscale(img):
     gray = lambda v: 0.114 * v[0] + 0.587 * v[1] + 0.299 * v[2]
     return np.apply_along_axis(gray, 2, img)
 ```
+
+## Checklist
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
